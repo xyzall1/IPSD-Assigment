@@ -1,7 +1,7 @@
 ## Repository praktikum IPSD
 
 <pre>
-Nama : Agung Widiyanto
-NIM : 2211110001
-Kelas : S1SD03-A
+Nama : Rosa Nur Aliana Sawafi
+NIM : 2311110008
+Kelas : S1SD04-01
 </pre>
